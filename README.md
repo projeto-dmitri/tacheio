@@ -1,75 +1,52 @@
-# [Tá cheio aí?!](https://matheusvictor.github.io/tacheio)
+# [Tá Cheio Aí?!](https://matheusvictor.github.io/tacheio)
 
-"Tá Cheio Aí" é um aplicativo de gerenciamento de quantidade de pessoas em estabelecimentos do ramo alimentício. Auxilia o empreendedor a controlar aglomerações no local em tempos de medidas restritivas e facilita a vida do cliente com informações a respeito de quantidade de pessoas no local fazendo com que ele evite filas e também aglomerações.
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
+O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. A nossa ferramenta tem a missão de contribuir para a gestão de pessoas em locais em tempos de crise com a visão de promover uma maior visibilidade aos micro e pequenos empreendimentos que estão pouco movimentados.
 
 ## Modelo
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Preview](https://i.ibb.co/StpwGQT/preview.png)](https://matheusvictor.github.io/tacheio)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+## Por que usar?
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
+* Pensamos no bem estar e no conforto de clientes que não querem esperar;
+* Oferecemos uma solução para aqueles que desejam divulgar o seu negócio;
+* Orientamos os empresários a cumprirem com as normas de segurança estabelecidas pelas autoridades
 
 ## Download e Instalação
 
-A instalação do "Tá Cheio Aí?" é simples e rápida!
-* Comece clicando no [link](http://tocodelab.com/tacheioai/tacheioai.apk) ou digitando "Tá cheio aí?" na Play Store.
-* Aceite os termos de uso
-* Instale o aplicativo
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
-* Install via npm: `npm i startbootstrap-freelancer`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+A instalação do "Tá Cheio Aí?!" é simples e rápida! Basta seguir os seguintes passos: 
 
-## Uso
+* Clique [neste aqui](http://tocodelab.com/tacheioai/tacheioai.apk) para que o navegador padrão do seu dispostivo possa baixar o arquivo `tacheioai.apk`.
+* Uma vez baixado, procure o `tacheioai.apk`entre seus downloads para que você possa iniciar o processo de instalação. Para que a instalação possa proceder, você precisa per permitir a instalação de aplicativos de terceiros. Se o seu aparelho não estiver habilitado, siga [este tutorial](https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html) e ative-o. Feito isso, prossiga com os passos abaixo;
+* Clique no arquivo `tacheioai.apk` para iniciar a instalação do aplicativo.
+
+Em breve o "Tá Cheio Aí?!" também estará disponível na Play Store!
+
+## Usabilidade
 
 ### Basic Usage
 
 * Depois de fazer a instalação realize o seu cadastro ou faça o login com o facebook ou twitter.
 * Aproveite para checar a quantidade de pessoas no local em restaurantes próximos ou pesquisados por voce!
-After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+## Reportar erros ou sugerir funcionalidades
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm and Gulp installed globally in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+Se, ao usar, notou algum bug, entre em contato com a equipe desenvolvedora para reportar o erro encontrado.
+Para sugerir funcionalidades que você acredite ser útil para seu negócio, envie sua sugestão para a equipe desenvolvedora para que esta avalie a implementação em versões futuras.
 
 ## Sobre
 
-O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. A nossa ferramenta visa contribuir para a gestão de pessoas em locais em tempos de crise  
+O "Ta Cheio Ai?!" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. A nossa ferramenta visa contribuir para a gestão de pessoas em locais em tempos de crise  
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+* 
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Desenvolvedores
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* Adriana Vieira
+* Almir Vinicius
+* Amanda Carvalaho
+* [Matheus Victor](https://matheusvictor.github.io/)
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Copyright and licença
 
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Template do portófólio lançado sob licença [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE).
