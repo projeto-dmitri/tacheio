@@ -18,6 +18,10 @@
 
 ## Download and Installation
 
+A instalação do "Tá Cheio Aí?" é simples e rápida!
+* Comece clicando no [link] (http://tocodelab.com/tacheioai/tacheioai.apk) digitando "Tá cheio aí?" na Play Store.
+* Aceite os termos de uso
+* Instale o aplicativo
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
 * Install via npm: `npm i startbootstrap-freelancer`
@@ -28,6 +32,8 @@ To begin using this template, choose one of the following options to get started
 
 ### Basic Usage
 
+* Depois de fazer a instalação realize o seu cadastro ou faça o login com o facebook ou twitter.
+* 
 After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
@@ -48,9 +54,9 @@ You must have npm and Gulp installed globally in order to use these features.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-## About
+## Sobre
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. O "Ta Cheio Aí?" visa contribuir para a gestão de pessoas e  
 
 * https://startbootstrap.com
 * https://twitter.com/SBootstrap
