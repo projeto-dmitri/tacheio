@@ -1,9 +1,9 @@
 # [Tá cheio aí?!](https://matheusvictor.github.io/tacheio)
 
-"Tá Cheio Aí" é um aplicativo de gerenciamento de quantidade de pessoas em estabelecimentos do ramo alimentício. Auxilia o empreendedor a controlar aglomerações no local em tempos de medidas restritivas e 
+"Tá Cheio Aí" é um aplicativo de gerenciamento de quantidade de pessoas em estabelecimentos do ramo alimentício. Auxilia o empreendedor a controlar aglomerações no local em tempos de medidas restritivas e facilita a vida do cliente com informações a respeito de quantidade de pessoas no local fazendo com que ele evite filas e também aglomerações.
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
-## Preview
+## Modelo
 
 [![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 
@@ -17,7 +17,7 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
 
-## Download and Installation
+## Download e Instalação
 
 A instalação do "Tá Cheio Aí?" é simples e rápida!
 * Comece clicando no [link](http://tocodelab.com/tacheioai/tacheioai.apk) ou digitando "Tá cheio aí?" na Play Store.
@@ -57,7 +57,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Sobre
 
-O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. O "Ta Cheio Aí?" visa contribuir para a gestão de pessoas e  
+O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. A nossa ferramenta visa contribuir para a gestão de pessoas em locais em tempos de crise  
 
 * https://startbootstrap.com
 * https://twitter.com/SBootstrap
