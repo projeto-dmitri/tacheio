@@ -12,6 +12,11 @@
 * Oferecemos uma solução para aqueles que desejam divulgar o seu negócio;
 * Orientamos os empresários a cumprirem com as normas de segurança estabelecidas pelas autoridades.
 
+## Capturas de tela
+
+[![Tela de login](https://i.ibb.co/HK0hHmP/phone.png)](https://tocodelab.com/tacheioai/tacheioai2/)
+
+
 ## Download e Instalação
 
 A instalação do `Tá Cheio Aí?!` é simples e rápida! Basta seguir os seguintes passos: 
