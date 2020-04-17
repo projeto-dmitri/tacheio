@@ -1,6 +1,6 @@
 # [Tá cheio aí?!](https://matheusvictor.github.io/tacheio)
 
-"Tá Cheio Aí" é um aplicativo de gerenciamento de quantidade de pessoas em estabelecimentos do ramo alimentício.
+"Tá Cheio Aí" é um aplicativo de gerenciamento de quantidade de pessoas em estabelecimentos do ramo alimentício. Auxilia o empreendedor a controlar aglomerações no local em tempos de medidas restritivas e 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
 ## Preview
