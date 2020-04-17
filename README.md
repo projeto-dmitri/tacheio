@@ -1,10 +1,10 @@
 # [Tá cheio aí?!](https://matheusvictor.github.io/tacheio)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
+O ["Tá cheio aí?!"](https://matheusvictor.github.io/tacheio/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
-## Preview
+## Visão geral
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](img/screenshots/preview.png)](https://matheusvictor.github.io/tacheio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
@@ -16,19 +16,17 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
 
-## Download and Installation
+## Download e instalação
 
-A instalação do "Tá Cheio Aí?" é simples e rápida!
-* Comece clicando no [link] (http://tocodelab.com/tacheioai/tacheioai.apk) digitando "Tá cheio aí?" na Play Store.
-* Aceite os termos de uso
-* Instale o aplicativo
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
-* Install via npm: `npm i startbootstrap-freelancer`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+A instalação da aplicação é simples e rápida!
 
-## Usage
+* Comece clicando no [link](http://tocodelab.com/tacheioai/tacheioai.apk) para baixar a aplicação (para Android). O navegador padrão do seu aparelho irá baixar a aplicação `tacheioai.apk`;
+* Procure pelo arquivo `tacheioai.apk` em meio aos seus downloads e clique no mesmo;
+* Se seu aparelho não permite a instalação de aplicativos via fontes externas, consulte [este tutorial](https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html), pois poderá ser útil. Uma vez permitido a instação de aplicativos por terceiros, o aplicativo será instalado normalmente.
+
+Em breve a aplicação estará disponível na loja de aplicativos Google Play!
+
+## Usabilidade
 
 ### Basic Usage
 
@@ -39,16 +37,6 @@ After downloading, simply edit the HTML and CSS files included with the template
 ### Advanced Usage
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm and Gulp installed globally in order to use these features.
 
 ## Bugs and Issues
 
@@ -69,6 +57,6 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+## Copyright e licença
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Código sob licença [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE).
