@@ -1,5 +1,10 @@
 # [Tá Cheio Aí?!](https://matheusvictor.github.io/tacheio)
 
+<p align="center">
+  <span>Portuguese</span> |
+  <a href="manual/????">#####</a>
+</p>
+
 O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solicitação de deliverys de micro e pequenas empresas do setor alimentício. A nossa ferramenta tem a missão de contribuir para a gestão de pessoas em locais em tempos de crise com a visão de promover uma maior visibilidade aos micro e pequenos empreendimentos que estão pouco movimentados.
 
 ## Modelo
@@ -10,7 +15,7 @@ O "Ta Cheio Ai?" é uma ferramenta dedicada ao gerenciamento de pessoas e  solic
 
 * Pensamos no bem estar e no conforto de clientes que não querem esperar;
 * Oferecemos uma solução para aqueles que desejam divulgar o seu negócio;
-* Orientamos os empresários a cumprirem com as normas de segurança estabelecidas pelas autoridades
+* Orientamos os empresários a cumprirem com as normas de segurança estabelecidas pelas autoridades.
 
 ## Download e Instalação
 
