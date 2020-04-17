@@ -4,7 +4,7 @@ O ["Tá cheio aí?!"](https://matheusvictor.github.io/tacheio/) is a one page fr
 
 ## Visão geral
 
-[![Freelancer Preview](img/screenshots/preview.png)](https://matheusvictor.github.io/tacheio/)
+[![Preview](https://i.ibb.co/StpwGQT/preview.png)](https://matheusvictor.github.io/tacheio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
