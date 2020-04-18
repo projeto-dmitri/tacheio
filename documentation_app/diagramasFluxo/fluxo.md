@@ -2,4 +2,4 @@
 
 ## Pré-visualização
 
-![Preview](documentation_app/diagramasFluxo/fluxo_img.png)
+![Preview](https://i.ibb.co/mRK7kMT/fluxo-img.png)

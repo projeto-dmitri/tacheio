@@ -36,7 +36,7 @@ Em breve o "Tá Cheio Aí?!" também estará disponível na Play Store!
 
 ## Documentação
 
-* <a href="documentation_app/diagramasFluxo">Diagramas de fluxo</a>
+* <a href="documentation_app/diagramasFluxo/fluxo.md">Diagramas de fluxo</a>
 
 ## Reportar erros ou sugerir funcionalidades
 
