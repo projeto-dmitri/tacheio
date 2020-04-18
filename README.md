@@ -14,8 +14,6 @@
 
 ## Capturas de tela
 
-[![Tela de login](https://i.ibb.co/BVHXFx3/phone.png)](https://tocodelab.com/tacheioai/tacheioai2/)
-
 
 ## Download e Instalação
 
