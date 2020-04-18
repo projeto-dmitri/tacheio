@@ -12,9 +12,6 @@
 * Oferecemos uma solução para aqueles que desejam divulgar o seu negócio;
 * Orientamos os empresários a cumprirem com as normas de segurança estabelecidas pelas autoridades.
 
-## Capturas de tela
-
-
 ## Download e Instalação
 
 A instalação do `Tá Cheio Aí?!` é simples e rápida! Basta seguir os seguintes passos: 
@@ -37,11 +34,9 @@ Em breve o "Tá Cheio Aí?!" também estará disponível na Play Store!
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt tincidunt orci, vitae venenatis mauris.
 * Aenean a velit condimentum, hendrerit arcu a, ornare neque. Donec euismod mi eu auctor suscipit. In bibendum faucibus sodales
 
-## Usabilidade
+## Documentação
 
-<p align="center">
-  <a href="manual/????">#####</a>
-</p>
+* <a href="documentation_app/diagramasFluxo">Diagramas de fluxo</a>
 
 ## Reportar erros ou sugerir funcionalidades
 
