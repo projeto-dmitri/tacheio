@@ -20,7 +20,11 @@ A instalação do `Tá Cheio Aí?!` é simples e rápida! Basta seguir os seguin
 * Uma vez baixado, procure o `tacheioai.apk`entre seus downloads para que você possa iniciar o processo de instalação. Para que a instalação possa proceder, você precisa per permitir a instalação de aplicativos de terceiros. Se o seu aparelho não estiver habilitado, siga [este tutorial](https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html) e ative-o. Feito isso, prossiga com os passos abaixo;
 * Clique no arquivo `tacheioai.apk` para iniciar a instalação do aplicativo.
 
-Em breve o "Tá Cheio Aí?!" também estará disponível na Play Store!
+**Em breve o `"Tá Cheio Aí?!"` também estará disponível na Play Store!**
+
+### Repositório do protótipo
+
+* **Para acessar o repositório do protório, [clique aqui](https://github.com/almirteixeira/tacheioai)!**
 
 ## Pra quem?
 
@@ -37,6 +41,7 @@ Em breve o "Tá Cheio Aí?!" também estará disponível na Play Store!
 ## Documentação
 
 * <a href="documentation_app/diagramasFluxo/fluxo.md">Diagramas de fluxo</a>
+* <a href="#">Pitch & Tweet Pitch (EM BREVE)</a>
 
 ## Reportar erros ou sugerir funcionalidades
 
@@ -49,6 +54,10 @@ Para sugerir funcionalidades que você acredite ser útil para seu negócio, env
 * Almir Vinicius
 * Amanda Carvalaho
 * [Matheus Victor](https://matheusvictor.github.io/)
+
+### Avaliador do repositório:
+
+* argolo
 
 ## Copyright e licença (Bootsrap)
 
