@@ -55,9 +55,9 @@ Para sugerir funcionalidades que você acredite ser útil para seu negócio, env
 * Amanda Carvalaho
 * [Matheus Victor](https://matheusvictor.github.io/)
 
-### Avaliador do repositório:
+### [Avaliador do repositório](https://github.com/almirteixeira/tacheioai):
 
-* argolo
+* @argolo --> [https://github.com/argolo](https://github.com/argolo)
 
 ## Copyright e licença (Bootsrap)
 
